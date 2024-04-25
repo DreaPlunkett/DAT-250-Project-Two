@@ -1,4 +1,4 @@
-# DAT-250-Project-Two
+# DAT-250 Data Policy and Decision Making-Project-Two
 Riddle Secuirty 
 Competency
 In this project, you will demonstrate your mastery of the following competency:
